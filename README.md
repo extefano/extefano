@@ -49,11 +49,8 @@ Actualmente me desempeño en el área técnica de **Ecom Chaco**, donde gestiono
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=extefano&show_icons=true&theme=tokyonight&count_private=true&cache_bust=1" alt="Estadísticas de Estéfano" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extefano&layout=compact&theme=tokyonight&cache_bust=1" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=extefano&show_icons=true&theme=tokyonight" alt="Estadísticas" />
 </p>
-
 ---
 
 ### 🤝 Conectemos
