@@ -11,10 +11,6 @@ Soy un apasionado de la tecnología, actualmente cursando la carrera de **Ingeni
 Actualmente me desempeño en el área técnica de **Ecom Chaco**, donde gestiono dispositivos de red y optimizo procesos mediante automatización. Soy una persona inquieta, siempre buscando aprender nuevas tecnologías y aplicarlas en proyectos del mundo real.
 
 - 📍 Resido en: **Argentina**.
-- 🛠️ Actualmente trabajando en: Repositorios locales de actualización de firmware y automatización de escaneos de red.
-- 💼 Cofundador de una micro-Pyme de desarrollo de software y soluciones digitales.
-- 📸 Intereses extra: Fotografía, diseño cartográfico con QGIS y emprendimientos creativos.
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
